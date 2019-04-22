@@ -62,7 +62,6 @@ namespace package_launcher
                     Console.WriteLine("failed to load {0}", file);
                     Console.WriteLine(ex.ToString());
                 }
-
             }
         }
     }
